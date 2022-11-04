@@ -1,0 +1,12 @@
+#grid {
+    width: 1000px;
+    height: 500px ;
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+  
+    
+    
